@@ -1,2 +1,2 @@
-# ellensblog.github.io
+# ellensblog
 Ellen's personal blog
